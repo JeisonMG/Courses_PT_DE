@@ -1,0 +1,4 @@
+# required libraries
+
+azure-functions
+pyodbc
